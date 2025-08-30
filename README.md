@@ -12,6 +12,6 @@ Official logo of Datacean.
 
 ## Colors
 
-- Dark blue: #104E8B
-- Steel blue: #4682B4
-- Sky blue: #87CEEB
+- Dark blue: `#104E8B`
+- Steel blue: `#4682B4`
+- Sky blue: `#87CEEB`
